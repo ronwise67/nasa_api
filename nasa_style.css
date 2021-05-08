@@ -1,0 +1,78 @@
+body {
+    background-color: #525150;
+}
+
+.nasa-logo {
+    width: 300px;
+    height: auto;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.nasa-logo {
+    width: 300px;
+    height: auto;
+    justify-content: center;
+}
+
+.controls {
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#header {
+    font-family: "Josefin Sans", sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 25pt;
+    color: white;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 30px;
+}
+
+h3 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 15pt;
+    color: white;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#choose-sol {
+    color: white;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+    margin: 2%;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.cameraNameText {
+    text-align: center;
+    color: white;
+}
+
+.image-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
